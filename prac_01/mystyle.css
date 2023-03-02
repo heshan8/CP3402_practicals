@@ -1,0 +1,10 @@
+.container {
+    width: 1000px;
+    height: 800px;
+    background-color: white;
+    margin: auto;
+}
+
+body {
+    background-color: #131516;
+}
