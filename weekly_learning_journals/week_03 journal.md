@@ -3,9 +3,9 @@
 ## Week 3
 
 ### Learning activities
-Making a website using WordPress CMS
-Watched LinkedIn WordPress learning course videos 
-Read WordPress Documentation on how to get started 
+Making a website using WordPress CMS  
+Watched LinkedIn WordPress learning course videos   
+Read WordPress Documentation on how to get started   
 
 
 ### Resources and links
