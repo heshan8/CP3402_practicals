@@ -1,6 +1,6 @@
 # CP3402 Weekly Journal
 
-## Week 1
+## Week 2
 
 ### Learning activities
 This week I set up a basic startup business website for practical one using CSS and HTML. I learnt about setting up
