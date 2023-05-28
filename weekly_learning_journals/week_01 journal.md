@@ -1,10 +1,9 @@
 # CP3402 Weekly Journal
 
-## Week 2
+## Week 1
 
 ### Learning activities
-This week I set up a basic startup business website for practical one using CSS and HTML. I learnt about setting up
-good CSS navigation menus and borders on www.w3schools.com which I can use for my first assignment.
+This week I set up a basic startup business website for practical one using CSS and HTML. I learnt about setting up good CSS navigation menus and borders on www.w3schools.com which I can use for my first assignment.
 
 ### Resources and links
 - www.w3schools.com

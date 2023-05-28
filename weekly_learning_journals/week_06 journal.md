@@ -3,8 +3,8 @@
 ## Week 6
 
 ### Learning activities
-Watching lecture content
-Watched LinkedIn Agile at work course Videos
+Watching lecture content.  
+Watched LinkedIn Agile at work course Videos.
 
 
 ### Resources and links
@@ -14,7 +14,7 @@ Watched LinkedIn Agile at work course Videos
 Around 3 hours.
 
 ### Content insights
-I relearned scrum and how to have good stand-up meetings. 
+I relearned scrum and how to have good stand-up meetings.
 
 Scrum's three daily questions:
 - What did you do yesterday?
@@ -24,5 +24,5 @@ Scrum's three daily questions:
 Will help me to be more productive in stand-up meetings.
 
 ### Career/Employability/Learning Insights
-Due to the increase in online collaboration, the use of stand-up have increased in the industry. My experience 
+Due to the increase in online collaboration, the use of stand-up have increased in the industry. My experience
 in this area will give me and edge when applying for a career.

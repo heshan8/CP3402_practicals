@@ -3,27 +3,24 @@
 ## Week 3
 
 ### Learning activities
-Watching YouTube videos on Joomla CMS 
-Watching Joomla CMS Tutorial Videos
-Researching Themes
+Making a website using WordPress CMS.  
+Watched LinkedIn WordPress learning course videos.   
+Read WordPress Documentation on how to get started.
+
 
 ### Resources and links
-- https://www.youtube.com/@wedevlops
-- https://docs.joomla.org/Tutorials:Beginners
+- https://developer.wordpress.org/themes/getting-started/
+- https://www.linkedin.com/learning/wordpress-workflows-2015
 
 ### Estimated hours
-Around 15 hours
+I spent around 10 hours watching lecture content, other useful videos on linked in and working on WordPress Site.
 
 ### Content insights
-Joomla was a decent intro to CMS. As this is my first experience with CMS It helped me to understand the basics of CMS
-and how usefully it is for managing websites more efficiently.
-
+Using WordPress was a much better experience compared to joomla. The site was a lot more stable and easier to set up.
+Watching linked in learning videos was very helpful in getting started with WordPress. I was able to learn some useful
+things such as the difference between wordpress.com and .org and the difference between a post and a page.
 
 ### Career/Employability/Learning Insights
-The team-forming "job interview" process was a great way to experience job interview similar to real life.
-Questions about Organizing skills, Availability and Experience in CMS were frequently Asked. These are very important
-questions that will almost always get asked in real life job interviews.
-
-Joomla CMS is quite old and can get confusing at first. It feels clunky at times and difficult to use.
-In a real job it would not be my first choice of CMS as far better ones exist such as WordPress and Drupal, but 
-depending on my carer it is good practice to have a wide-ranging knowledge of different CMS to maximise employability.
+As someone with little to no experience in cms, WordPress is one of the best CMS programs out there, and it is widely
+used. While looking for jobs, I have seen employers asking for experience with WordPress a number of times and
+If I start a career in web design I'll have no issues with using WordPress.
