@@ -1,0 +1,38 @@
+@import "colours";
+
+//nesting and variables
+nav {
+  background-color: dodgerblue;
+
+  ul li {
+    display: inline;
+    padding-left: 10px;
+    text-decoration: none;
+
+  }
+
+  ul li a {
+    font-size: 28px;
+    text-decoration: none;
+    color: $primary-colour;
+  }
+}
+
+body {
+  background-color: $background_colour;
+}
+
+//mixin
+.button {
+  @include custom-button-style
+}
+
+.button_2 {
+  @include custom-button-style;
+  font-size: 20px;
+}
+
+//extend/inheritance
+#about_us_1 {
+  @extend .button
+}

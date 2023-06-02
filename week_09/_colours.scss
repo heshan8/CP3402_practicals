@@ -1,0 +1,12 @@
+//variables
+$primary-colour: yellow;
+$background_colour: rgba(85, 85, 85, 0.17);
+
+//mixin
+@mixin custom-button-style {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-color: #303031;
+  text-decoration: none;
+}
