@@ -1,0 +1,36 @@
+nav {
+  background-color: dodgerblue;
+}
+nav ul li {
+  display: inline;
+  padding-left: 10px;
+  text-decoration: none;
+}
+nav ul li a {
+  font-size: 28px;
+  text-decoration: none;
+  color: yellow;
+}
+
+body {
+  background-color: rgba(85, 85, 85, 0.17);
+}
+
+.button, #about_us_1 {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-color: #303031;
+  text-decoration: none;
+}
+
+.button_2 {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-color: #303031;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=mainstyles.css.map */
